@@ -1,9 +1,6 @@
 
 # CS 5001
-# Project 5
-# Man walking by the river
-  
- 
+
 # links to the animated sun, man and fish 
 # https://drive.google.com/file/d/1BOSlV-ipSJ-Fabw2FFsxuaXvmojlu-qT/view?usp=sharing (draws the final scene)
 # https://drive.google.com/file/d/16oV1NiDl5qUWGnNyhcLpmSsxMT5gTZSu/view?usp=sharing (fish )

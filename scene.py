@@ -1,7 +1,4 @@
 # Caroline Ninganga
-# CS 5001
-# Project 5
-# Man walking by the river
  
 import graphicsPlus as gr
 import shapes2 as cs
@@ -53,7 +50,7 @@ def scene( argsList ):
   
   
     # # draw the river into the window 
-    river = cs.init_river( x+200*scale, y+550*scale, scale) 
+    river = cs.init_river( x+300*scale, y+550*scale, scale) 
   
     # line 22 to 24 call the draw function which draws the zelle shapes that draw the csmplex shapes  
     cs.draw(man, win) 
@@ -81,9 +78,6 @@ def scene( argsList ):
   
         win.update() # at each iteration the window has to update 
         time.sleep(0.1) # tells the loop to pause for a tenth of a secsnd, meaning that ten loops is roughly one secsnd of animation time. 
-  
-    # pause until user gets mouse 
-    # c.undraw() 
   
 
     # wait for a mouse click 
