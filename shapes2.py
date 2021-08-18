@@ -1,10 +1,4 @@
 # Caroline Ninganga
-
-# links to the animated sun, man and fish 
-# https://drive.google.com/file/d/1BOSlV-ipSJ-Fabw2FFsxuaXvmojlu-qT/view?usp=sharing (draws the final scene)
-# https://drive.google.com/file/d/16oV1NiDl5qUWGnNyhcLpmSsxMT5gTZSu/view?usp=sharing (fish )
-# https://drive.google.com/file/d/1G6j_yEAMMP_snzMYkZwR-qfof-irr3ko/view?usp=sharing ( sun )
-# https://drive.google.com/file/d/1kJTxeJJlpRuPS_pWY0gLRLurAL1VB0PW/view?usp=sharing ( man )
  
 # imported package graphicsPlus, time, random and sys
 import graphicsPlus as gr
